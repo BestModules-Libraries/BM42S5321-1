@@ -1,0 +1,74 @@
+##############################################
+# Coloring Map For （BM42S5321-1）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM42S5321-1	KEYWORD1
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+getINT	KEYWORD2
+startMeasure	KEYWORD2
+stopMeasure	KEYWORD2
+readDistance	KEYWORD2
+calibrateOffset	KEYWORD2
+IsCalibration	KEYWORD2
+sleep	KEYWORD2
+wakeUp	KEYWORD2
+resetMCU	KEYWORD2
+restoreDefault	KEYWORD2
+saveSettings	KEYWORD2
+getDistanceMode	KEYWORD2
+getMeasureMode	KEYWORD2
+getTimingBudgetInMs	KEYWORD2
+getIntermeasurementPeriod	KEYWORD2
+getRoiRegion	KEYWORD2
+getThshold	KEYWORD2
+getLigthKcps	KEYWORD2
+getFWver	KEYWORD2
+getFactoryVal	KEYWORD2  
+setDistanceModeLong	KEYWORD2
+setDistanceModeShort	KEYWORD2
+setMeasureMode	KEYWORD2
+setTimingBudgetInMs	KEYWORD2
+setIntermeasurementPeriod	KEYWORD2
+setRoiRegion	KEYWORD2
+setThshold	KEYWORD2
+setUartBuard	KEYWORD2
+setI2CAddress	KEYWORD2
+checksum	KEYWORD2
+writeBytes	KEYWORD2	
+readBytes	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################	
+SUCCESS	LITERAL1          
+FAIL	LITERAL1  
+
+CHECK_OK	LITERAL1 
+CHECK_ERROR	LITERAL1	
+TIMEOUT_ERROR	LITERAL1   
+           
+IIC_MODE	LITERAL1  
+UART_MODE	LITERAL1   
+
+Smaptim_15	LITERAL1
+Smaptim_20	LITERAL1 
+Smaptim_33	LITERAL1 
+Smaptim_50	LITERAL1
+Smaptim_100	LITERAL1
+Smaptim_200	LITERAL1
+Smaptim_500	LITERAL1 
+
+RoiRegion_4x4	LITERAL1
+RoiRegion_8x8	LITERAL1
+RoiRegion_16x16	LITERAL1
+
+BUARD_9600	LITERAL1	
+BUARD_115200	LITERAL1 
+
+ContinuousRanging	LITERAL1
+SingleRanging	LITERAL1 
+PowerSaveRanging	LITERAL1
