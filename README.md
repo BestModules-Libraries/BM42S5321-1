@@ -5,7 +5,7 @@
 BM42S5321-1
 ===========================================================
 
-BM42S5321-1 is the laser ranging module launched by Beichuang and uses I2C or UART communication methods. This document describes the Arduino Lib function of BM42S5321-1 and the installation method of Arduino Lib. The example uses the BML36K532 module to demonstrate the function of reading distance.
+The Best Modules BM42S5321-1 is a laser ranging module, which uses the I2C and UART communication methods. This document describes the Arduino Lib function of the BM42S5321-1 and how to install the Arduino Lib. The example demonstrates the function of reading the distance with the BML36K532.
 
 #### Applicable types:
 <div align=center>
@@ -13,7 +13,7 @@ BM42S5321-1 is the laser ranging module launched by Beichuang and uses I2C or UA
 |Part No.   |Description                           |
 |:---------:|:------------------------------------:|
 |BM42S5321-1|Laser Ranging Module                  |
-|BML36K532  |BM42S5321-1,adapter plate and JenaLabs|
+|BML36K532  |Integrated an adapter board, an adapter cable and the BM42S5321-1|
 </div> 
 
 This library can be installed via the Arduino Library manager. Search for BM42S5321-1**. 
